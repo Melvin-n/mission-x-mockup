@@ -315,6 +315,7 @@ li img {
 }
 
 #signup-button-signup-section {
+    border: 2px var(--pink) solid;
     background-color: var(--pink);
     color: white;
     text-align: center;
